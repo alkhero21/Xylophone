@@ -2,7 +2,6 @@
 //  SceneDelegate.swift
 //  Xylophone
 //
-//  Created by Zhangali Pernebayev on 06.10.2022.
 //
 
 import UIKit
